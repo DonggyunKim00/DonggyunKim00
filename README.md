@@ -2,7 +2,7 @@
 <hr>
 <br/>
 
-![Donggyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Donggyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonggyunKim00&show_icons=true&theme=dark)
 
 <br/>
 
