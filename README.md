@@ -39,4 +39,4 @@
 
 ## 📚 Latest Blog Posts
 
-<ul><li><a href='https://daniel-devlog.tistory.com/3' target='_blank'>NextJS 공식문서 파헤치기 (Linking and Navigating)</a></li><li><a href='https://daniel-devlog.tistory.com/2' target='_blank'>NextJS 공식문서 파헤치기 (Defining Routes, Pages, Layouts and Templates)</a></li><li><a href='https://daniel-devlog.tistory.com/1' target='_blank'>NextJS 공식문서 파헤치기 (Routing Fundamentals)</a></li></ul>
+<ul><li><a href='https://daniel-devlog.tistory.com/4' target='_blank'>NextJS 공식문서 파헤치기 (Caching)</a></li><li><a href='https://daniel-devlog.tistory.com/3' target='_blank'>NextJS 공식문서 파헤치기 (Linking and Navigating)</a></li><li><a href='https://daniel-devlog.tistory.com/2' target='_blank'>NextJS 공식문서 파헤치기 (Defining Routes, Pages, Layouts and Templates)</a></li><li><a href='https://daniel-devlog.tistory.com/1' target='_blank'>NextJS 공식문서 파헤치기 (Routing Fundamentals)</a></li></ul>
